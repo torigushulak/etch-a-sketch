@@ -1,0 +1,21 @@
+/* grid */
+#container {
+  display: grid;
+  grid-template-rows: repeat(var(--grid-rows), 1fr);
+  grid-template-columns: repeat(var(--grid-cols), 1fr);
+  padding: 90px;
+}
+
+.grid-item {
+  padding: 1.6em;
+  border: 1.5px solid #ddd;
+  text-align: center;
+}
+
+/* hover */
+
+
+
+
+
+/* button */
